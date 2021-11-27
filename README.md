@@ -4,11 +4,13 @@
 
 **Fresh** is an HTML fully responsive webpage designed and coded by Mohamed A. Eljaouadi you can download the project files for free and use it to display your awesome works on it.
 
+Please star ⭐️ my repo and click on watch button so you can keep updated with the next features that I will add to the preject coming soon.
+
 ## About Me
 
-I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 2 years and have been loving every minute of it. please check  👉  [My Portfolio Website](http://eljaouadi.com).
+My name is Mohamed A. Eljaouadi I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 2 years and have been loving every minute of it. please check  👉  [My Portfolio Website](http://eljaouadi.com).
  
-## Have a project for me
+## Do You Have A Project
 
 Do you want to have a modern responsive website for your business? I'm so ready to help and work with you to make your ideas happen please contact me ✉️
 
