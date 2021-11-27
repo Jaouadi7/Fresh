@@ -2,7 +2,7 @@
 
 ![Design and Development](https://github.com/Jaouadi7/Fresh/blob/main/fresh.png)
 
-Fresh HTML fully responsive webpage you can download it for free and use it to display your awesome works on it.
+**Fresh** is an HTML fully responsive webpage designed and coded by Mohamed A. Eljaouadi you can download the project files for free and use it to display your awesome works on it.
 
 ## About Me
 
